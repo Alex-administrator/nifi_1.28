@@ -1,0 +1,4 @@
+cd E:\git\nifi_1.28
+git add nifi-sharepoint-nar-1.23.2.nar
+git commit -m "Add design file"
+git push
